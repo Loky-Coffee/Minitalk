@@ -27,6 +27,11 @@ First, start the server to get its PID (Process ID):
 ```bash
 ./server
 ```
+<div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Loky-Coffee/Minitalk/main/minitalk.png" align="center" alt="the 'push_swap' algorithm" width="1024" height="512" />
+  </div>
+</div>
 
 The server will display its PID on the console. Then, run the client with the server's PID and the message to be sent:
 
